@@ -1,0 +1,69 @@
+[submodule "ayyangar"]
+	path = ayyangar
+	url = git@github.com:devangel77b/426vayyangar-spring.git
+[submodule "akula"]
+	path = akula
+	url = git@github.com:devangel77b/426takula-spring.git
+[submodule "davalur"]
+	path = davalur
+	url = git@github.com:devangel77b/426davalur-spring.git
+[submodule "ravalur"]
+	path = ravalur
+	url = git@github.com:devangel77b/426ravalur-spring.git
+[submodule "chin"]
+	path = chin
+	url = git@github.com:devangel77b/426jchin-spring.git
+[submodule "chen"]
+	path = chen
+	url = git@github.com:devangel77b/426echen-spring.git
+[submodule "fuks"]
+	path = fuks
+	url = git@github.com:devangel77b/426efuks-spring.git
+[submodule "lavrenov"]
+	path = lavrenov
+	url = git@github.com:devangel77b/426alavrenov-spring.git
+[submodule "leung"]
+	path = leung
+	url = git@github.com:devangel77b/426rleung-spring.git
+[submodule "lee"]
+	path = lee
+	url = git@github.com:devangel77b/426elee-spring.git
+[submodule "cetrulo"]
+	path = cetrulo
+	url = git@github.com:devangel77b/426acetrulo-spring.git
+[submodule "govardhanen"]
+	path = govardhanen
+	url = git@github.com:devangel77b/426vgovardhanen-spring.git
+[submodule "perle"]
+	path = perle
+	url = git@github.com:devangel77b/426jperle-spring.git
+[submodule "dumalagan"]
+	path = dumalagan
+	url = git@github.com:devangel77b/426adumalagan-spring.git
+[submodule "altman"]
+	path = altman
+	url = git@github.com:devangel77b/426daltman-spring.git
+[submodule "lin"]
+	path = lin
+	url = git@github.com:devangel77b/126jlin-spring.git
+[submodule "cacciarelli"]
+	path = cacciarelli
+	url = git@github.com:devangel77b/426jcacciarelli-spring.git
+[submodule "grant"]
+	path = grant
+	url = git@github.com:devangel77b/426ggrant-spring.git
+[submodule "dsouza"]
+	path = dsouza
+	url = git@github.com:devangel77b/426jdsouza-spring.git
+[submodule "butash"]
+	path = butash
+	url = git@github.com:devangel77b/426cbutash-spring.git
+[submodule "kishore"]
+	path = kishore
+	url = git@github.com:devangel77b/426nkishore-spring.git
+[submodule "arenas"]
+	path = arenas
+	url = git@github.com:devangel77b/426marenas-spring.git
+[submodule "kabatsky"]
+	path = kabatsky
+	url = git@github.com:devangel77b/426akabatsky-spring.git
